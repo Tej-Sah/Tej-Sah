@@ -109,7 +109,7 @@ Full-stack development, AI/ML and cloud-based projects.
 A library management system developed as my first-year academic project to manage library-related operations and make the management process more organized.
 </p>
 
-<b>Stack:</b> C / C++ / Java / SQL
+<b>Stack:</b> Python and Python libraries
 
 <!-- Update this stack with the exact technologies used -->
 
