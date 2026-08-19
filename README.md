@@ -9,9 +9,9 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tej-narayan-sah-9552142aa)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tezzsha182@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tej-Sah)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tej%20Narayan%20Sah-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tej-narayan-sah-9552142aa/)
+[![Email](https://img.shields.io/badge/Email-tezzsha182%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tezzsha182@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Tej--Sah-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tej-Sah)
 
 <img src="https://img.shields.io/github/followers/Tej-Sah?label=Followers&style=social" alt="Followers"/>
 <img src="https://komarev.com/ghpvc/?username=Tej-Sah&label=Profile%20Views&color=00C4CC&style=flat" alt="Profile Views"/>
@@ -20,34 +20,35 @@
 
 ---
 
-## 🧠 About Me
+### 🧠 About Me
 
 - 🎓 **4th-year Computer Engineering student** at **Symbiosis Institute of Technology, Pune**.
 - 💻 **Full Stack Developer** interested in building practical and user-focused applications.
 - 🤖 Interested in **Artificial Intelligence & Machine Learning** and real-world ML applications.
-- ☁️ Exploring **Cloud Computing** and modern software technologies.
-- 🌐 Interested in **Web Development and Frontend Development**.
+- ☁️ Interested in **Cloud Computing** and modern software technologies.
+- 🌐 Passionate about **Web Development and Frontend Development**.
 - 🛠️ Experienced in building projects across **Software Development, IoT, Web Development, AI/ML, and Databases**.
 - 🌱 Always learning, experimenting, and improving my development skills.
-- 📫 Reach me at **tezzsha182@gmail.com**
+- 🔗 Connect with me on [**LinkedIn**](https://www.linkedin.com/in/tej-narayan-sah-9552142aa/)
+- 📫 Reach me at [**tezzsha182@gmail.com**](mailto:tezzsha182@gmail.com)
 
 ```python
 class Tej:
     def __init__(self):
         self.role = "Full Stack Developer"
         self.focus = [
-            "Web Development",
+            "Full-Stack Development",
             "AI/ML",
             "Cloud Computing"
         ]
         self.languages = [
-            "Python",
-            "Java",
             "C",
             "C++",
+            "Java",
+            "Python",
             "HTML",
             "SQL"
         ]
 
     def collaborate(self):
-        return "Let's build something meaningful 🚀"
+        return "Let's build something useful 🚀"
